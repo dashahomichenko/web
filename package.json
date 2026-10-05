@@ -1,0 +1,25 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "web web web",
+  "main": "index.js",
+  "type": "module", 
+  "scripts": {
+  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashahomichenko/web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dashahomichenko/web/issues"
+  },
+  "homepage": "https://github.com/dashahomichenko/web#readme",
+  "dependencies": {
+    "commander": "^15.0.0"
+  }
+}

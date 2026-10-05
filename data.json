@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Julia",
+    "age": 19,
+    "skill_level": 15,
+    "role": "magician",
+    "xp": 120,
+    "friend": "Katerin",
+    "spells": [
+      "abra cadabra",
+      "Avada Kedavra",
+      "Hocus Pocus",
+      "Alakazam"
+    ],
+    "inventory": [
+      {
+        "item_name": "chicken",
+        "item_quantity": 3,
+        "item_type": "food"
+      },
+      {
+        "item_name": "magic wand",
+        "item_quantity": 1,
+        "item_type": "equipment"
+      },
+      {
+        "item_name": "poison",
+        "item_quantity": 2,
+        "item_type": "magic item"
+      }
+    ],
+    "gear": {
+      "helmet": false,
+      "chestplate": true,
+      "pants": true,
+      "boots": false
+    }
+  },
+  {
+    "name": "Arthur",
+    "age": 25,
+    "skill_level": 17,
+    "role": "brawler",
+    "xp": 100,
+    "friend": null,
+    "spells": [],
+    "inventory": [
+      {
+        "item_name": "mushroom soup",
+        "item_quantity": 3,
+        "item_type": "food"
+      },
+      {
+        "item_name": "axe",
+        "item_quantity": 1,
+        "item_type": "equipment"
+      },
+      {
+        "item_name": "shield",
+        "item_quantity": 1,
+        "item_type": "equipment"
+      },
+      {
+        "item_name": "protecting amulet",
+        "item_quantity": 1,
+        "item_type": "magic item"
+      }
+    ],
+    "gear": {
+      "helmet": true,
+      "chestplate": true,
+      "pants": true,
+      "boots": true
+    }
+  },
+  {
+    "name": "Katerin",
+    "age": 21,
+    "skill_level": 16,
+    "role": "archer",
+    "xp": 100,
+    "friend": "Julia",
+    "spells": [],
+    "inventory": [
+      {
+        "item_name": "apple",
+        "item_quantity": 5,
+        "item_type": "food"
+      },
+      {
+        "item_name": "bow",
+        "item_quantity": 1,
+        "item_type": "equipment"
+      },
+      {
+        "item_name": "arrow",
+        "item_quantity": 10,
+        "item_type": "equipment"
+      },
+      {
+        "item_name": "golden apple",
+        "item_quantity": 1,
+        "item_type": "magic item"
+      }
+    ],
+    "gear": {
+      "helmet": true,
+      "chestplate": true,
+      "pants": false,
+      "boots": true
+    }
+  }
+]
+
+
