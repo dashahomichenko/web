@@ -16,17 +16,20 @@
       {
         "item_name": "chicken",
         "item_quantity": 3,
-        "item_type": "food"
+        "item_type": "food",
+        "is_equipped": false
       },
       {
         "item_name": "magic wand",
         "item_quantity": 1,
-        "item_type": "equipment"
+        "item_type": "equipment",
+        "is_equipped": true
       },
       {
         "item_name": "poison",
         "item_quantity": 2,
-        "item_type": "magic item"
+        "item_type": "magic item",
+        "is_equipped": false
       }
     ],
     "gear": {
@@ -43,27 +46,34 @@
     "role": "brawler",
     "xp": 100,
     "friend": null,
-    "spells": [],
+    "spells": [
+      "Power Strike",
+      "Shield Bash"
+    ],
     "inventory": [
       {
         "item_name": "mushroom soup",
         "item_quantity": 3,
-        "item_type": "food"
+        "item_type": "food",
+        "is_equipped": false
       },
       {
         "item_name": "axe",
         "item_quantity": 1,
-        "item_type": "equipment"
+        "item_type": "equipment",
+        "is_equipped": true
       },
       {
         "item_name": "shield",
         "item_quantity": 1,
-        "item_type": "equipment"
+        "item_type": "equipment",
+        "is_equipped": true
       },
       {
         "item_name": "protecting amulet",
         "item_quantity": 1,
-        "item_type": "magic item"
+        "item_type": "magic item",
+        "is_equipped": true
       }
     ],
     "gear": {
@@ -80,27 +90,34 @@
     "role": "archer",
     "xp": 100,
     "friend": "Julia",
-    "spells": [],
+    "spells": [
+      "Eagle Eye",
+      "Rain of Arrows"
+    ],
     "inventory": [
       {
         "item_name": "apple",
         "item_quantity": 5,
-        "item_type": "food"
+        "item_type": "food",
+        "is_equipped": false
       },
       {
         "item_name": "bow",
         "item_quantity": 1,
-        "item_type": "equipment"
+        "item_type": "equipment",
+        "is_equipped": true
       },
       {
         "item_name": "arrow",
         "item_quantity": 10,
-        "item_type": "equipment"
+        "item_type": "equipment",
+        "is_equipped": true
       },
       {
         "item_name": "golden apple",
         "item_quantity": 1,
-        "item_type": "magic item"
+        "item_type": "magic item",
+        "is_equipped": false
       }
     ],
     "gear": {
@@ -111,5 +128,3 @@
     }
   }
 ]
-
-
